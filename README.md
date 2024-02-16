@@ -1,7 +1,7 @@
 # INSTASCRYPTS_Essensh3ls 
     v.1.0 campus_edition
 
-![Cover Art](https://i.ytimg.com/vi/Q_k66okQ5J4/maxresdefault.jpg))
+![Cover Art](https://i.ytimg.com/vi/Q_k66okQ5J4/maxresdefault.jpg)
 
 ---
 
