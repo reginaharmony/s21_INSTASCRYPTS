@@ -47,7 +47,9 @@ Welcome to the School Mac Utility Scripts repository! This collection of scripts
 
 ## Fancy Pictures
 
-![Screenshot](path/to/screenshot.png)
+![fancy_picture_1](path/to/fpic1.png)
+![fancy_picture_2](path/to/fpic2.png)
+![fancy_picture_3](path/to/fpic3.png)
 
 ## Contacts
 
